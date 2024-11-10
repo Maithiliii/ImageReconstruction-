@@ -2,7 +2,7 @@
 
 Before running the scripts, ensure you have Python 3.x installed along with the required libraries. You can install the required dependencies via pip:
 
- pip install tensorflow opencv-python numpy matplotlib
+`code`pip install tensorflow opencv-python numpy matplotlib
 
 Required Libraries
 
