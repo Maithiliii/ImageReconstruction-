@@ -1,4 +1,6 @@
-# Installation & Requirements
+# Image Reconstruction using Denoising Autoencoder(DAE)  
+
+## Installation & Requirements
 
 Before running the scripts, ensure you have Python 3.x installed along with the required libraries. You can install the required dependencies via pip:
 ```bash
